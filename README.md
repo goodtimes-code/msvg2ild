@@ -1,6 +1,3 @@
-# Explanation
-Renders a bacth of SVG frames into an animated .ild (ILDA) frame.
-
 # Usage
 `python input output/output.ild`
 
