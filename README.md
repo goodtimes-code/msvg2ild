@@ -4,6 +4,9 @@
 # Examples
 Please find some example SVG files in the folder *input* and an example output at *output/uncle.ild*.
 
+# Support & Community
+Join our [Discord](https://discord.gg/Yp24ZC4n) server to discuss your ideas and issues with the community.
+
 # Thanks
 The code is based on [svgild.py](https://github.com/marcan/openlase/blob/master/tools/svg2ild.py), which is part of the OpenLase project.
 
